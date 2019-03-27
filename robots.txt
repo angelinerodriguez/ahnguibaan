@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohfaxaexoo.fredericjacobs.com/sitemap.xml
